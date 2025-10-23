@@ -23,7 +23,7 @@
 </style>
 
 <body>
-    <footer class="footer-center text-white p-10">
+    <footer class="footer-center text-white">
   <aside>
     <img src="../../assets/images/logo-white.png" alt="logo" width="200">
     <ul>
